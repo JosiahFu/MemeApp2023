@@ -17,6 +17,7 @@ function App() {
         <li>are you sure about that</li>
       </ol>
       <p>apple sus apple</p>
+      <p>don't you just love talking about starbucks for 6 minutes :3</p>
       <p>AMOUNG US! EVERYONE IS SUS!!!!!!</p>
       <ol></ol>
       <ul>What is your favorite sport?</ul>
